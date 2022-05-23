@@ -1,0 +1,4 @@
+Name: BellcurveDose
+Description: Run Bell Curve Dose Response App
+Binding: RunbellcurveDose
+Interactive: true
