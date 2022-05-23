@@ -1,8 +1,4 @@
----
-title: "R Package addinDemo - Bringing the Code to the Data"
-output:
-  html_document
----
+# R Package addinDemo - Bringing the Code to the Data"
 
 
 
