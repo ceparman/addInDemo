@@ -9,7 +9,7 @@
 
 Sometimes for various reason you are required to process data where is resides. This can be because of security concerns or the size of the data.  
 
-This demo show how to use RStudio's Addins feature to run an a Shiny app directly from Github. This method only requires the end user to do a one time installation of the package.  Once install, the user will be able to run the latest version of the app on Github without any updates or checking vesion.  The app is run locally using the function runGithub from the Shiny package.  
+This demo show how to use RStudio's Addins feature to run an a Shiny app directly from Github. This method only requires the end user to do a one time installation of the package.  Once installed, the user will be able to run the latest version of the app on Github without any updates or checking version.  The app is run locally using the function runGithub from the Shiny package.  
 
 # Details
 
@@ -56,7 +56,7 @@ devtools::install_github("ceparman/addinDemo")
 **Usage:**
 
 Once the package in installed the new menu item BellcurveDose will appear in the addins menu.  When 
-you run the addin the function will install an missing required packages and the run the app in a new browser window.
+you run the addin the function will install any missing required packages and the run the app in a new browser window.
 
 
 **For further information**
