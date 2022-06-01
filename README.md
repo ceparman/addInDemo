@@ -3,7 +3,7 @@
 #Bringing the Code to the Data
 
 
-## R package to show one method to bring your Shiny App to your data. 
+## R package to show usig RStudios's AddIns to bring your Shiny App to your data. 
 
 ### Why?
 
